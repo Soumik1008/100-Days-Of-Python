@@ -3,5 +3,3 @@ class Question:
         self.text = q_text
         self.answer = q_answer
         
-ques = Question("India is great","True")
-print(ques.text)
